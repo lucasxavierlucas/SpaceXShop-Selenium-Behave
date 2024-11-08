@@ -2,6 +2,7 @@
 
 This project uses Python with Selenium and Behave to automate the process of adding two “Occupy Mars” mugs to the cart on the SpaceX shop website. So, we can relax with a hot coffee while discussing rocket engineering.
 
+https://youtu.be/mh2CC58k-7I 
 
 ## Technologies Used
 
