@@ -24,7 +24,7 @@ def step_when_add_mugs_to_cart(context):
     product_page.increase_quantity()
     product_page.add_to_cart()
 
-@then('The total cost should be "$40.00"')
+@then('The total cost should be 40.00')
 def step_then_validate_total_cost(context):
     cart_page = CartPage(context.driver)
     total_price = cart_page.get_total_price()
